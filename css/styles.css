@@ -1,0 +1,17 @@
+.center {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin: 0 auto;
+}
+
+h1 {
+    line-height: 80px;
+    color: #FF9900;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+}
+
+.logo {
+    float: left;
+}
